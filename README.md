@@ -18,4 +18,4 @@ Comando 'descifrar' ó 'd':
 	<li>Escribe archivo.</li>
 	</ul>
 
-* Las claves deben ser letras del alfabeto español, según su posición en el mismo('a' para 1, 'b' para 2, etc.)
+...* Las claves deben ser letras del alfabeto español, según su posición en el mismo('a' para 1, 'b' para 2, etc.)
